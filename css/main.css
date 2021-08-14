@@ -47,6 +47,8 @@ div#main_nav_links {
 	flex-wrap: wrap;
 	margin: 0 auto; }
 
+#main_nav_links a {
+	margin: 0px 5px; }
 
 span.ninethreezero {
   color: #993300;
@@ -98,7 +100,7 @@ footer p {
 	height: 20px;
 	width: 75px; }
 footer p, footer a {
-  font-size: 1.5em; }
+  font-size: 22px; }
 div#gli_authori {
   width: 30%;
   float: left; }
@@ -108,7 +110,7 @@ div#visitors {
 footer {
 	padding-bottom: 300px; }
 span.visitatori {
-  font-size: 1.5em; }
+  font-size: 22px; }
 footer a {
   color: #993300; }
 
